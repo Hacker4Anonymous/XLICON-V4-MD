@@ -27,7 +27,7 @@
 //Instagram: ahmmikun
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//WhatsApp: +2347071086449
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -45,8 +45,8 @@ global.location = "Pakistan, Lahore, Sabzazar" //ur location
 
 //new
 global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
-global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
+global.ownernumber = ['2347071086449'] //ur owner number, dont add more than one
+global.ownername = 'zod' //ur owner name
 global.websitex = "https://youtube.com/@s4salmanyt"
 global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 global.themeemoji = '⛩'
